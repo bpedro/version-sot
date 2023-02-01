@@ -1,6 +1,6 @@
 {
   "name": "version-sot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Maintain version information across different configuration files",
   "main": "./lib/version-sot.js",
   "bin": {
